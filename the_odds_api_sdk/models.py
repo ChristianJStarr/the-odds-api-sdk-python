@@ -128,7 +128,7 @@ class HistoricalSnapshot:
 
 # Type aliases for common parameter types
 Region = Literal["us", "us2", "uk", "us_dfs", "au", "eu"]
-MarketType = Literal["h2h", "spreads", "totals", "outrights"]
+MarketType = Literal["h2h", "h2h_lay", "spreads", "totals", "outrights"]
 OddsFormat = Literal["decimal", "american"]
 DateFormat = Literal["iso", "unix"] 
 
