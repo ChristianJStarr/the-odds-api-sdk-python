@@ -1,7 +1,10 @@
 # The Odds API Python SDK
 
-[![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+[![PyPI version](https://badge.fury.io/py/the-odds-api-sdk.svg)](https://badge.fury.io/py/the-odds-api-sdk)
+[![Python Version](https://img.shields.io/pypi/pyversions/the-odds-api-sdk.svg)](https://pypi.org/project/the-odds-api-sdk/)
+[![PyPI Downloads](https://static.pepy.tech/badge/the-odds-api-sdk/month)](https://pepy.tech/projects/the-odds-api-sdk)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 An unofficial Python SDK for [The Odds API](https://the-odds-api.com/).
 
